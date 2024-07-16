@@ -1,0 +1,19 @@
+{
+  "name": "project_html_css_p3",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cssnano": "^7.0.4",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.39",
+    "postcss-preset-env": "^9.6.0"
+  }
+}
